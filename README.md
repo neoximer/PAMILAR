@@ -36,8 +36,7 @@ _Note: values marked as "bool" are considered enabled if set to 1 and disabled i
 
 <br>
 
-After the .env file configuration PAMILAR is ready to go.
-
+After the .env file configuration PAMILAR is ready to go.<br>
 The compiled js file is in the ```build``` folder, it can be run with a simple:
 ```
 node pamilar.js
@@ -59,7 +58,9 @@ screen -L -S annminer
 
 In this way a file named screenlog.# will be generated in the folder where screen has been launched.
 
+<br>
 
+## Donate ##
 ☕If you like my work and wanna buy me a coffee to keep me awake and coding you can support me using the following
 
 ```PKT: pkt1qlr97jl865eqctlyl66dtatdkp9dnldgtp532t9```
