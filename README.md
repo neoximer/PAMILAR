@@ -8,6 +8,8 @@ Setting the GENERATE_CSV variable to 1 will also output a .csv file (more on env
 
 ## How to install (npm and node required) ##
 
+_This step is required only if you want to modify the code_
+
 ```
 git clone https://github.com/neoximer/PAMILAR
 cd PAMILAR
