@@ -1,0 +1,28 @@
+{
+    "name": "pamilar",
+    "version": "0.1.0",
+    "description": "PAMILAR - Pkt Announcement MIner Log pARser",
+    "main": "build/pamilar.js",
+    "scripts": {
+        "test": "node build/pamilar.js",
+        "start": "npm run tsc && npm run test",
+        "tsc": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neoximer/PAMILAR.git"
+    },
+    "author": "Neoximer",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/neoximer/PAMILAR/issues"
+    },
+    "homepage": "https://github.com/neoximer/PAMILAR#readme",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "typescript": "^4.5.5"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.18"
+    }
+}
