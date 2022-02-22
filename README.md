@@ -58,3 +58,12 @@ screen -L -S annminer
 ```
 
 In this way a file named screenlog.# will be generated in the folder where screen has been launched.
+
+
+☕If you like my work and wanna buy me a coffee to keep me awake and coding you can support me using the following
+
+```PKT: pkt1qlr97jl865eqctlyl66dtatdkp9dnldgtp532t9```
+
+```ETH (ERC20 or BEP20): 0x952c1d82b85cfaaef6e1a39f1cf32aee4614ad01```
+
+```BTC (Bitcoin Network): 1JKbAYq8zsfTR1tNx6tqpqgi4rFvWX6uGE```
